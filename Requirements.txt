@@ -1,3 +1,0 @@
-jamf student app
-jamf parent app on seperate device
-iOS device
