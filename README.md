@@ -2,9 +2,9 @@
 Bypassing of lightspeed iOS filter.
 
 Requirements:
-1. jamf student app
-2. jamf parent app on seperate device
-3. iOS device
+1. jamf student app on iOS device to be unblocked
+2. jamf parent app on seperate device (requires app download)
+3. iOS device (to be unblocked)
 
 Method: 
 1. Download jamf parent app on seperate device, ensuring jamf student is on the device to be unblocked.
